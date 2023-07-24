@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.token{
+    margin: 1vw 1vw;
+    padding: 1vw 1vw;
+    position: relative;
+    top: 1vw ;
+    left: 1vw;
+    border-radius: 1vw;
+    color: whitesmoke;
+
+}
